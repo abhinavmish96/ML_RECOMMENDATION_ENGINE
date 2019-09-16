@@ -134,5 +134,4 @@ The gist of the next two steps is to use the [Watson Machine Learning Python cli
 ## Example Output
 
 Here we add some products to our cart, and get some recommendations:
-
 ![app](doc/source/images/product_recommendation_app.png)
